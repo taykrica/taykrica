@@ -2,9 +2,9 @@
 
  Meu nome é Taynara Rodrigues Kriça. 🦄
 
- - Estou estudando na plataforma Alura.
- - Estou me desenvolvendo nas linguagens Javascript,HTML e CSS.
- - Utlizo este espaço para minha organização e compartilhamento dos meus projetos.
+- Estou estudando na plataforma Alura.
+- Estou me desenvolvendo nas linguagens Javascript,HTML e CSS.
+- Utlizo este espaço para minha organização e compartilhamento dos meus projetos.
 
  ### Você pode entrar em contato comigo 📫 
  
