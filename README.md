@@ -8,7 +8,7 @@
 
  ### Você pode entrar em contato comigo 📫 
  
-  taynara.krica@escola.pr.gov.br
+   taynara.krica@escola.pr.gov.br
 
   ![](https://media.tenor.com/KZyMHwT2FpYAAAAC/orochi-orochinho.gif)
 
